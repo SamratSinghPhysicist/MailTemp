@@ -1,9 +1,9 @@
 # Temporary Email Service API Documentation
 
 ## Base URL
-`https://your-domain.com/api`
+`https://website-domain.com/api`
 'Note:
-For now, https://your-domain.com/ = https://mailtemp-production.up.railway.app/
+For now, https://website-domain.com/ = https://mailtemp-production.up.railway.app/
 
 So, Base URL = https://mailtemp-production.up.railway.app/api
 '
